@@ -4,6 +4,8 @@
 
 Este proyecto implementa un **Merkle Patricia Trie** (MPT), una estructura de datos fundamental utilizada en Ethereum para almacenar y verificar datos de manera eficiente y segura. El MPT combina las características de un árbol Patricia (para compresión de prefijos) con hashes criptográficos (para verificación de integridad).
 
+![Merkle Patricia Trie](https://i.sstatic.net/YZGxe.png)
+
 ## Características Principales
 
 - **Compresión de Prefijos**: Reduce el almacenamiento al compartir prefijos comunes entre claves
